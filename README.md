@@ -92,7 +92,7 @@ src/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/alamin-one/WOODEN.git
+git clone https://github.com/alaminhere/WOODEN.git
 ```
 
 ### Navigate to the Project
@@ -142,7 +142,7 @@ http://localhost:5173
 
 ## Repository
 
-https://github.com/alamin-one/WOODEN
+https://github.com/alaminhere/WOODEN
 
 ---
 
